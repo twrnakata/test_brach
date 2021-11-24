@@ -1,1 +1,5 @@
-print("test")
+print("Oh the misery")
+print("Everybody wants to be my enemyyyyyy")
+print("Spare the sympathy")
+print("Everybody wants to beeeeeeeeeee")
+print("my enemy")
