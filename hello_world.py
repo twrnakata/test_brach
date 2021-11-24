@@ -1,1 +1,3 @@
-print("HEE:LELELLELELELWOOW ORLD")
+print("Oh the misery")
+
+print("my enemyss")
