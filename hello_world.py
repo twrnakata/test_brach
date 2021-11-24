@@ -1,2 +1,0 @@
-print("Oh the misery")
-
